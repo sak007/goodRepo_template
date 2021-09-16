@@ -1,0 +1,1 @@
+# goodRepo_template
