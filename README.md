@@ -1,4 +1,4 @@
-# goodRepo_template
+# Template for a "Good" Repo
 
 This is the template for a good repository for you to use to build your project. Thanks for using this!
 
