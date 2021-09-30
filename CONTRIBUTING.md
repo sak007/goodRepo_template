@@ -1,12 +1,12 @@
 # **Contributing to this repository**
 
-# *Getting started*
+# **Getting started**
 
-# *Basic guidelines*
+# **Basic guidelines**
 Project timeline, update frequency, what you accept, what you don't etc.
 
 
-# Before you begin (Installation):
+# **Before you begin (Installation):**
 Mention details about what the prerequisites are.
 
 # **Branching Format** (Only for contributing members)
